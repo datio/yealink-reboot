@@ -18,7 +18,7 @@ npm install
 npx playwright install
 
 # Configure your devices in the `.env.yaml` file
-cp .env.example.yml .env.yml
+cp .env.yml.example .env.yml
 code .env.yml # or use any other editor instead of vscode
 
 # Run it
