@@ -2,6 +2,9 @@
 
 In case you want to restart your Yealink DECT device(s), this is a simple playwright script that automates the steps you'd normally run manually in the web interface.
 
+![image](https://github.com/user-attachments/assets/517e4b8f-3256-4d06-85b9-12f90528d546)
+
+
 ## Usage
 
 ### 🪟 **Windows users:**
